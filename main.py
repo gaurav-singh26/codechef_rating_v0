@@ -6,7 +6,7 @@
 from ranklist_parser import RankListParser
 from file_system import DataBase
 
-contest = "LTIME78A"
+contest = "FEB20B"
 
 R = RankListParser(contest)
 print("Parsing Ranklist.")
